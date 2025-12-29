@@ -1,0 +1,90 @@
+{
+  "0xf6b46C3c177D2256da671B8b51C88F26b40fF06e": {
+    "33900034": {
+      "balance_raw": 200000000,
+      "balance_human": 200.0,
+      "total_supply_raw": 2393226599,
+      "total_supply_human": 2393.226599
+    },
+    "33921869": {
+      "balance_raw": 200000000,
+      "balance_human": 200.0,
+      "total_supply_raw": 2593226599,
+      "total_supply_human": 2593.226599
+    },
+    "33983610": {
+      "balance_raw": 400903306,
+      "balance_human": 400.903306,
+      "total_supply_raw": 5309316570,
+      "total_supply_human": 5309.31657
+    },
+    "34491707": {
+      "balance_raw": 410427115,
+      "balance_human": 410.427115,
+      "total_supply_raw": 5318840379,
+      "total_supply_human": 5318.840379
+    },
+    "34494931": {
+      "balance_raw": 410196345,
+      "balance_human": 410.196345,
+      "total_supply_raw": 5318609609,
+      "total_supply_human": 5318.609609
+    },
+    "34495497": {
+      "balance_raw": 410196345,
+      "balance_human": 410.196345,
+      "total_supply_raw": 5318609609,
+      "total_supply_human": 5318.609609
+    },
+    "34579107": {
+      "balance_raw": 410196345,
+      "balance_human": 410.196345,
+      "total_supply_raw": 5318609609,
+      "total_supply_human": 5318.609609
+    }
+  },
+  "0x25ffC79C6a796Cfa42D4bE6FFB44d603c66A341f": {
+    "33900034": {
+      "balance_raw": 100000000,
+      "balance_human": 100.0,
+      "total_supply_raw": 1137227777,
+      "total_supply_human": 1137.227777
+    },
+    "33921869": {
+      "balance_raw": 100000000,
+      "balance_human": 100.0,
+      "total_supply_raw": 1137227777,
+      "total_supply_human": 1137.227777
+    },
+    "33983610": {
+      "balance_raw": 300854303,
+      "balance_human": 300.854303,
+      "total_supply_raw": 2509240772,
+      "total_supply_human": 2509.240772
+    },
+    "34491707": {
+      "balance_raw": 282723868,
+      "balance_human": 282.723868,
+      "total_supply_raw": 2491110337,
+      "total_supply_human": 2491.110337
+    },
+    "34494931": {
+      "balance_raw": 282723868,
+      "balance_human": 282.723868,
+      "total_supply_raw": 2491110337,
+      "total_supply_human": 2491.110337
+    },
+    "34495497": {
+      "balance_raw": 282723868,
+      "balance_human": 282.723868,
+      "total_supply_raw": 2491110337,
+      "total_supply_human": 2491.110337
+    },
+    "34579107": {
+      "balance_raw": 282723868,
+      "balance_human": 282.723868,
+      "total_supply_raw": 2491110337,
+      "total_supply_human": 2491.110337
+    }
+  }
+}
